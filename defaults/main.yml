@@ -1,0 +1,19 @@
+---
+# defaults file for packages
+
+# packages_list:
+    # - ansible
+    # - net-tools
+    # - sudo
+    # - htop
+    # - git
+    # - wget
+    # - vim
+    # - screen
+    # - bash-completion
+    # - unzip
+    # - lsb-release
+    # - ntp
+    # - make
+    # - gcc
+    # - dnsutils
